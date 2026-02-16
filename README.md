@@ -26,4 +26,7 @@ While `j >= 0`, place the larger of `customerData1[i]` and `customerData2[j]` in
 ## Diagram
 See `diagrams/flowchart_merge_sorted_customer_data.png`
 
-## Run Test
+## Run Tests
+```bash
+pip install -r requirements.txt
+pytest -q

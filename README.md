@@ -18,7 +18,7 @@ Merge `customerData2` into `customerData1` **in place** so that `customerData1` 
 
 ---
 
-## Approach
+## Approac
 This solution uses **three pointers** and merges from the **end of the array** to avoid overwriting valid data in `customerData1`.
 
 ### Pointers
